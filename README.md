@@ -37,9 +37,9 @@ In this project we are going to be accessing the GitHub API and building a socia
 
 ### Project Setup
 
-* [ ] Navigate to the root of the project with your command line.
-* [ ] Run `npm install` to download any dependencies listed in the `package.json` file.
-* [ ] Run `npm start` to compile your project and launch a development server.
+* [X] Navigate to the root of the project with your command line.
+* [X] Run `npm install` to download any dependencies listed in the `package.json` file.
+* [X] Run `npm start` to compile your project and launch a development server.
 
 ### Axios Setup
 
